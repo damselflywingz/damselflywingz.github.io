@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at Worcester Polytechnic Institute with an expected graduation May 2022. My PhD research is part of the [Emutivo](https://emutivo.wpi.edu) project advised by Prof Elke Rundensteiner. Specifically, my research involves screening for mental illnesses with text data collected using mobile applications. My research interests include machine learning, visualization, health informatics, generative modeling, unsupervised learning, natural language processing, and human-computer interaction. I am a mental health advocate who enjoys writing, solving puzzles, and hiking with my dog Bumper. 
+About Me
+======
 
+I am a 38-year-old white settler living and working on the traditional Territory of the lək̓ʷəŋən speaking peoples. I acknowledge and give thanks to the lessons and teachings I have received while living and working here in Victoria, BC. As a scientist, and in my work in the natural resource management sector of the BC Ministry of Environment and Climate Change Strategy I am committed to the Truth and Reconciliation Commission of Canada's Call to Action and upholding the United Nations Declaration on the Rights of Indigenous Peoples.
 
+Current Research: epigenetic interference in SARS-CoV-2
+======
 
-
-
-
+My research explores the molecular evolution of epigenetic interference as an anti-host mechanism in RNA viruses. Leveraging advanced strategies in RNA-sequencing, integrative bioinformatics, and functional genetics, I hope my research will provide the missing link to fight back against emerging zoonotic diseases like SARS-CoV-2. 

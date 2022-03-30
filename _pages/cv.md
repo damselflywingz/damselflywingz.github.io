@@ -9,51 +9,77 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+\[[pdf](/files/CV_March3_22.pdf)\]
 
-Work experience
+Academic Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 — present* Postdoctoral researcher, Queen's University Biology Department  
+\* affiliated on a voluntary basis since November 2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Academic Degrees
+======
+
+Ph.D., Genetics, Massey University, 2020  
+•	Thesis: “Temperature- and host-dependent regulation of virulence factors in an insect pathogenic bacterium, Yersinia entomophaga.”  
   
-Skills
+M.Sc., Biological Sciences, University of Victoria, 2014  
+•	Thesis: “The microbial associates and putative venoms of seed chalcid wasps (Hymenoptera: Torymidae: Megastimgus).”  
+  
+B.Sc. Honours, Biological Sciences, Vancouver Island University, 2007  
+•	Graduated with distinction.
+
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* [2016 — 2019] Commonwealth Scholarship and Fellowship Plan 
+* [2015]      *Declined* Alexander Graham Bell Canada Graduate Scholarships - Doctoral Program  
+* [2015 — 2018] NSERC Postgraduate Scholarship - Doctoral  
+* [2018]	New Zealand Society for Microbiology – Student Travel Grant  
+* [2017]	New Zealand Society for Microbiology – Best Student Talk  
+* [2012]	University of Victoria – M.C. Melburn Award  
+* [2011]	University of Victoria – Amelia Leith Memorial Fellowship    
+* [2007]	NSERC Undergraduate Research Award  
+
+Professional Experience
+======
+* [2013 – 2015 & 2020 – present] BC Ministry of Environment and Climate Strategy – Environmental Assessment Office, Project Assessment Officer – Indigenous Nation engagement  
+* [2011] Fisheries and Oceans Canada, Aquaculture Resource Management Branch, Aquaculture Management Coordinator/ Indigenous Relations.
+* [2007 – 2011] McNaughton Environmental Consultants Ltd., Environmental Monitor/Fisheries Consultant.
+* [2005; 2006] Mount Arrowsmith Biosphere Foundation, Co-op summer student.
+
+Teaching, Mentoring and Outreach
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Invited Talks and Conference Presentations
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Peer Reviewer
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Insect Science, BMC Genomics, Environmental Entomology, Molecular Ecology, and Tick & Tick-borne Diseases.
   
-Teaching
+Professional Memberships
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+*	Canadian Society of Microbiologists
+*	The RNA Society
+*	BC General Employees’ Union member
+
+Expertise
 ======
-* Currently signed in to 43 different slack teams
+*	In vivo transcriptomics for infection and immunity research;
+*	Arthropod microbiome, meta-transcriptome, RNA viruses, endosymbionts, Yersinia, and Galleria mellonella;
+*	R, Unix Shell, high-performance cluster computing;
+*	RNA biology, small viral RNA, RNA-RNA & RNA-DNA cross-kingdom signalling;
+*	Short-read sequencing (16S, RNA-seq, small RNA-seq), experimental design, molecular microbiology, molecular ecology;
+*	Engagement and consultation with Indigenous Nations and Treaty Partners on the review of major projects.

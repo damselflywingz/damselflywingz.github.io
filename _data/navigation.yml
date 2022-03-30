@@ -6,15 +6,18 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Mentoring"
-    url: /mentoring/    
+  - title: "Teaching"
+    url: /teaching/   
+
+#  - title: "Mentoring"
+#    url: /mentoring/    
   
-  - title: "Service"
-    url: /service/  
+#  - title: "Service"
+#    url: /service/  
  
-  - title: "Resources"
-    url: /resources/  
+#  - title: "Resources"
+#    url: /resources/  
   
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /cv/
     
