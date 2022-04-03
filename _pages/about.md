@@ -25,4 +25,5 @@ Currently I am a voluntary postdoc with Dr. Rob Colautti at Queen's University, 
 
 Past Research: In vivo transcriptome Yersinia
 ======
+
 I was a New Zealand Commonwealth Fellow for my PhD, completed with Dr. Mark Hurst at AgResearch Ltd. New Zealand., where I worked on transcriptome of entomopathogenic bacterium Yersinia entomophaga.
