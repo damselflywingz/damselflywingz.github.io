@@ -18,7 +18,7 @@ Current Research: epigenetic interference in SARS-CoV-2
 
 My research explores the molecular evolution of epigenetic interference as an anti-host mechanism in RNA viruses. Leveraging advanced strategies in RNA-sequencing, integrative bioinformatics, and functional genetics, I hope my research will provide the missing link to fight back against emerging zoonotic diseases like SARS-CoV-2. 
 
-Current Research: Tick microbiome
+Past Research: Tick microbiome
 ======
 
 Currently I am a voluntary postdoc with Dr. Rob Colautti at Queen's University, where I use high-throughput genetic sequencing to understand threat of emerging pathogens within blacklegged ticks - Ixodes scapularis, including Rickettsia buchneri, Lyme disease borreliosis group Borrelia burgdorferi and RNA viruses. I have developed an open-source R pipeline for analysis of 16S rRNA sequencing for bacteria associated with ticks.
