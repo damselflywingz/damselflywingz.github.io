@@ -21,9 +21,9 @@ My current research explores the molecular evolution of epigenetic interference 
 Past Research: Tick microbiome
 ======
 
-Previously, as a postdoc with Dr. Rob Colautti at Queen's University (2020 - 2021), where I use high-throughput genetic sequencing to understand threat of emerging pathogens within blacklegged ticks - <i>Ixodes scapularis</i>, including <i>Rickettsia buchneri</i>, Lyme disease borreliosis group <i>Borrelia burgdorferi</i> and RNA viruses. I have developed an open-source R pipeline for analysis of 16S rRNA sequencing for bacteria associated with ticks.
+Previously, as a postdoc with Dr. Rob Colautti at Queen's University (2020 - 2021), I used high-throughput genetic sequencing to understand threat of emerging pathogens within blacklegged ticks - <i>Ixodes scapularis</i>, including <i>Rickettsia buchneri</i>, Lyme disease borreliosis group <i>Borrelia burgdorferi</i> and RNA viruses. I have developed an open-source R pipeline for analysis of 16S rRNA sequencing for bacteria associated with ticks.
 
 Past Research: In vivo transcriptome Yersinia
 ======
 
-I was a New Zealand Commonwealth Fellow for my PhD, completed with Dr. Mark Hurst at AgResearch Ltd. New Zealand., where I worked on transcriptome of entomopathogenic bacterium <i>Yersinia entomophaga</i>.
+I was a New Zealand Commonwealth Fellow for my PhD (2015- 2019), completed with Dr. Mark Hurst at AgResearch Ltd. New Zealand., where I worked on transcriptome of entomopathogenic bacterium <i>Yersinia entomophaga</i>.
