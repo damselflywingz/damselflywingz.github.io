@@ -8,4 +8,3 @@ paperurl: ''
 citation: 'Paulson, A.R., Montoya, V. & Joy, J.B. (In prep). Nuclear-acting small viral RNAs target enhancer sequence in human lung via heterotriplex formation in SARS-CoV-2'
 ---
 
-Recommended citation: Paulson, A.R., Montoya, V. & Joy, J.B. (In prep). Nuclear-acting small viral RNAs target enhancer sequence in human lung via heterotriplex formation in SARS-CoV-2.
