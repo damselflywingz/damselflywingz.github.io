@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-\[[pdf](/files/CV_March3_22.pdf)\]
+\[[pdf](/files/Public_CV_Oct2024.pdf)\]
 
 Academic Appointments
 ======
