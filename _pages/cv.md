@@ -13,8 +13,7 @@ redirect_from:
 
 Academic Appointments
 ======
-* 2019 — present* Postdoctoral researcher, Queen's University Biology Department  
-\* affiliated on a voluntary basis since November 2020
+2023 — present Postdoctoral researcher, Joy Lab - BC Centre for Excellence HIV/AIDS, UBC Faculty of Medicine  
 
 Academic Degrees
 ======
@@ -30,7 +29,7 @@ B.Sc. Honours, Biological Sciences, Vancouver Island University, 2007
 
 Awards
 ======
-
+* [2023 — 2025] Michael Smith Labs BC Health Research Training Fellowship Award
 * [2016 — 2019] Commonwealth Scholarship and Fellowship Plan 
 * [2015]      *Declined* Alexander Graham Bell Canada Graduate Scholarships - Doctoral Program  
 * [2015 — 2018] NSERC Postgraduate Scholarship - Doctoral  
@@ -42,7 +41,8 @@ Awards
 
 Professional Experience
 ======
-* [2013 – 2015 & 2020 – present] BC Ministry of Environment and Climate Strategy – Environmental Assessment Office, Project Assessment Officer – Indigenous Nation engagement  
+* [2013 – 2015 & 2020 – present] BC Ministry of Environment and Climate Strategy – Environmental Assessment Office, Project Assessment Officer – Indigenous Nation engagement
+* [2020 - 2021] Postdoctoral researcher - Colautti Lab - Queen's University - tick sampling, student supervising, tick microbiome and metatranscriptome
 * [2011] Fisheries and Oceans Canada, Aquaculture Resource Management Branch, Aquaculture Management Coordinator/ Indigenous Relations.
 * [2007 – 2011] McNaughton Environmental Consultants Ltd., Environmental Monitor/Fisheries Consultant.
 * [2005; 2006] Mount Arrowsmith Biosphere Foundation, Co-op summer student.
