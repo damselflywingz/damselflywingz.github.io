@@ -9,22 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-\[[pdf](/files/Public_CV_Oct2024.pdf)\]
+\[[pdf](/files/Public_CV_Dec2025.pdf)\]
 
 Academic Appointments
 ======
-2023 — present Postdoctoral researcher, Joy Lab - BC Centre for Excellence HIV/AIDS, UBC Faculty of Medicine  
+2023 — present Postdoctoral researcher, Jeffrey Joy Lab - B.C. Centre for Excellence HIV/ AIDS, University of B.C., Faculty of Medicine  
 
 Academic Degrees
 ======
 
-Ph.D., Genetics, Massey University, 2020  
-•	Thesis: “Temperature- and host-dependent regulation of virulence factors in an insect pathogenic bacterium, Yersinia entomophaga.”  
+PhD in Genetics, Massey University, 2020  
+•	Thesis: “Temperature- and host-dependent regulation of virulence factors in an insect pathogenic bacterium, <i>Yersinia entomophaga</i>.”  
   
-M.Sc., Biological Sciences, University of Victoria, 2014  
-•	Thesis: “The microbial associates and putative venoms of seed chalcid wasps (Hymenoptera: Torymidae: Megastimgus).”  
+MSc in Biology, University of Victoria, 2014  
+•	Thesis: “The microbial associates and putative venoms of seed chalcid wasps (Hymenoptera: Torymidae: <i>Megastimgus</i>).”  
   
-B.Sc. Honours, Biological Sciences, Vancouver Island University, 2007  
+BSc in Biology, Vancouver Island University, 2007  
 •	Graduated with distinction.
 
 Awards
@@ -41,11 +41,11 @@ Awards
 
 Professional Experience
 ======
-* [2013 – 2015 & 2020 – present] BC Ministry of Environment and Climate Strategy – Environmental Assessment Office, Project Assessment Officer – Indigenous Nation engagement
-* [2020 - 2021] Postdoctoral researcher - Colautti Lab - Queen's University - tick sampling, student supervising, tick microbiome and metatranscriptome
-* [2011] Fisheries and Oceans Canada, Aquaculture Resource Management Branch, Aquaculture Management Coordinator/ Indigenous Relations.
-* [2007 – 2011] McNaughton Environmental Consultants Ltd., Environmental Monitor/Fisheries Consultant.
-* [2005; 2006] Mount Arrowsmith Biosphere Foundation, Co-op summer student.
+* [2013 – 2015 & 2020 – present] BC Ministry of Environment and Parks – Environmental Assessment Office, Project Assessment Officer
+* [2020 - 2021] Postdoctoral researcher - Rob Colautti Lab - Queen's University - tick sampling, student supervising, tick microbiome and metatranscriptome
+* [2011] Fisheries and Oceans Canada, Aquaculture Resource Management Branch, Aquaculture Management Coordinator
+* [2007 – 2011] McNaughton Environmental Consultants Ltd., Fisheries Field Biologist
+* [2005; 2006] Mount Arrowsmith Biosphere Foundation, Seasonal Field Assistant
 
 Teaching, Mentoring and Outreach
 ======
@@ -67,13 +67,15 @@ Publications
   
 Peer Reviewer
 ======
-* Insect Science, BMC Genomics, Environmental Entomology, Molecular Ecology, and Tick & Tick-borne Diseases.
+* BMC Biology, BMC Genomics, Environmental Entomology, Insect Science, Molecular Ecology, and Tick & Tick-borne Diseases.
   
 Professional Memberships
 ======
 *	Canadian Society of Microbiologists
 *	The RNA Society
-*	BC General Employees’ Union member
+*	American Society for Virology
+*	Vancouver RNA Club
+
 
 Expertise
 ======
