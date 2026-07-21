@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-\[[pdf](/files/Public_CV_Dec2025.pdf)\]
+\[[pdf](/files/Public_CV_July2026.pdf)\]
 
 Academic Appointments
 ======
-2023 — present Postdoctoral researcher, Jeffrey Joy Lab - B.C. Centre for Excellence HIV/ AIDS, University of B.C., Faculty of Medicine  
+2023 — 2025 Postdoctoral researcher, Jeffrey Joy Lab - B.C. Centre for Excellence HIV/ AIDS, University of B.C., Faculty of Medicine  
 
 Academic Degrees
 ======
